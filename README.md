@@ -23,9 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shakikh02166083" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shakikh02166083" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shakeeb ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shakeeb ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shakeeb-ahmed-khan-flutter-81837916b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shakeeb ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/shakeeb ahmed khan (sweato)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shakeeb ahmed khan (sweato)" height="30" width="40" /></a>
-<a href="https://instagram.com/shakeeb ahmed khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shakeeb ahmed khan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shakeebcutie/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shakeeb ahmed khan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/guidance hub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="guidance hub" height="30" width="40" /></a>
 </p>
 
