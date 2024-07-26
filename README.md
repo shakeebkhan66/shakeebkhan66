@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakeeb Ahmed Khan</h1>
+<h1 align="center">Hi 👋, I'm Asim Farooq</h1>
 <h3 align="center">A passionate Flutter Developer with Firebase.</h3>           
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeebkhan66&label=Profile%20views&color=0e75b6&style=flat" alt="shakeebkhan66" /> </p>
